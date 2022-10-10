@@ -28,7 +28,7 @@ I should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/DianaVCruz/)
+- Solution URL: [Github](https://github.com/DianaVCruz/3-column-preview-card-frontend-mentor)
 - Live Site URL: [Netlify](https://your-live-site-url.com)
 
 ## My process
