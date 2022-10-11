@@ -28,8 +28,8 @@ I should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/DianaVCruz/)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/DianaVCruz/3-column-preview-card-frontend-mentor)
+- Live Site URL: [Netlify](https://3-column-card-frontend-mentor.netlify.app/)
 
 ## My process
 
